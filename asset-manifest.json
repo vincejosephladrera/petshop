@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/petshop/static/css/main.b5fef0b5.css",
+    "main.js": "/petshop/static/js/main.dc59593f.js",
+    "static/media/dog-background.jpg": "/petshop/static/media/dog-background.71f33411ee8438ac6f87.jpg",
+    "static/media/petcarrier.jpg": "/petshop/static/media/petcarrier.cbf26c4540064901d9a1.jpg",
+    "static/media/pet-leash-with-vest.jpg": "/petshop/static/media/pet-leash-with-vest.bf76fd5b2074b5137768.jpg",
+    "static/media/pedigree-adult-dogfood.jpg": "/petshop/static/media/pedigree-adult-dogfood.870c028e63158ec21173.jpg",
+    "static/media/pedigree-meatjerky.jpg": "/petshop/static/media/pedigree-meatjerky.a2c171ebee72355f1ba1.jpg",
+    "static/media/pedigree-dentastix.jpg": "/petshop/static/media/pedigree-dentastix.b7b7bff2f30df5f886ee.jpg",
+    "static/media/Dumbell-Dog-Toy.jpg": "/petshop/static/media/Dumbell-Dog-Toy.39a22af13cb4669b09dc.jpg",
+    "index.html": "/petshop/index.html",
+    "main.b5fef0b5.css.map": "/petshop/static/css/main.b5fef0b5.css.map",
+    "main.dc59593f.js.map": "/petshop/static/js/main.dc59593f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5fef0b5.css",
+    "static/js/main.dc59593f.js"
+  ]
+}
